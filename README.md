@@ -1,4 +1,7 @@
 # coquille
-Coquille de plateforme quelque chose
+
+Texte provenant du fichier lisez-moi (format Markdown).
+
+Coquille de plateforme quelque chose 
 
 Du texte...
